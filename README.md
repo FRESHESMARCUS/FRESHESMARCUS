@@ -12,17 +12,15 @@ I enjoy finding repetitive tasks that can be automated and turning them into wor
 - **AI Tools:** ChatGPT, Claude Code
 
 ### Projects
+#### Sales Enquiry Assistant
 
-**Sales Enquiry Assistant**
+An n8n workflow automation project for capturing, validating, and processing sales enquiries.
 
-A project I built with n8n to handle incoming sales enquiries.
+- **Tools:** n8n, Google Sheets, Gmail
+- **Features:** Form submissions, data validation, conditional routing, lead storage, salesperson email notifications, and error alerts.
+- **Status:** Version 1 demonstration completed; not production-ready.
 
-It collects enquiries through a form, checks the submitted information, saves valid records to Google Sheets, and sends email notifications to the sales team.
-
-It also includes a separate workflow for reporting automation errors.
-
-*Status: Version 1 demonstration completed. Further testing and improvements are still needed before production use.*
-
+[View Project Repository](https://github.com/FRESHESMARCUS/sales-enquiry-assistant)
 ### What I'm Learning
 
 I'm continuing to develop my skills in AI automation, workflow development, and connecting different business applications.
