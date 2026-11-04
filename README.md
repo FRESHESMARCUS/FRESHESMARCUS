@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Benjamin Marcus 👋
 
-<!--
-**FRESHESMARCUS/FRESHESMARCUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Automation Developer focused on building business workflows with **n8n, APIs, and AI tools**.
 
-Here are some ideas to get you started:
+I enjoy finding repetitive tasks that can be automated and turning them into workflows that actually work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+
+- **Automation:** n8n
+- **Integrations:** APIs and webhooks
+- **Data & Productivity:** Google Sheets, Gmail
+- **AI Tools:** ChatGPT, Claude Code
+
+### Projects
+
+**Sales Enquiry Assistant**
+
+A project I built with n8n to handle incoming sales enquiries.
+
+It collects enquiries through a form, checks the submitted information, saves valid records to Google Sheets, and sends email notifications to the sales team.
+
+It also includes a separate workflow for reporting automation errors.
+
+*Status: Version 1 demonstration completed. Further testing and improvements are still needed before production use.*
+
+### What I'm Learning
+
+I'm continuing to develop my skills in AI automation, workflow development, and connecting different business applications.
+
+### Contact
+
+**Email:** marcusautomations@gmail.com
